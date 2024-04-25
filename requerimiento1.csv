@@ -1,0 +1,934 @@
+,Department,Job,Q1,Q2,Q3,Q4
+0,Accounting,Account Representative IV,1,0,0,0
+1,Accounting,Actuary,0,1,0,0
+2,Accounting,Analyst Programmer,0,0,1,0
+3,Accounting,Budget/Accounting Analyst III,0,1,0,0
+4,Accounting,Cost Accountant,0,1,0,0
+5,Accounting,Database Administrator III,0,0,0,1
+6,Accounting,Desktop Support Technician,0,0,1,0
+7,Accounting,Food Chemist,1,0,0,0
+8,Accounting,Graphic Designer,0,1,0,0
+9,Accounting,Health Coach III,0,0,0,1
+10,Accounting,Health Coach IV,0,0,1,0
+11,Accounting,Help Desk Technician,0,0,1,0
+12,Accounting,Junior Executive,0,0,1,0
+13,Accounting,Legal Assistant,0,0,1,1
+14,Accounting,Media Manager III,0,1,0,0
+15,Accounting,Programmer Analyst IV,0,1,1,1
+16,Accounting,Programmer III,0,0,1,0
+17,Accounting,Research Assistant IV,0,0,1,0
+18,Accounting,Sales Representative,1,0,1,0
+19,Accounting,Senior Cost Accountant,0,0,0,1
+20,Accounting,Senior Developer,0,0,0,1
+21,Accounting,Software Test Engineer IV,0,0,1,0
+22,Accounting,Statistician I,0,0,0,1
+23,Accounting,Statistician II,0,0,0,2
+24,Accounting,Structural Analysis Engineer,0,1,2,0
+25,Accounting,VP Accounting,0,0,1,0
+26,Accounting,Web Designer I,0,0,0,1
+27,Accounting,Web Designer III,0,0,0,1
+28,Accounting,Web Developer I,0,1,0,0
+29,Accounting,Web Developer III,0,0,0,2
+30,Business Development,Account Executive,0,2,0,1
+31,Business Development,Account Representative III,0,1,0,0
+32,Business Development,Account Representative IV,0,1,0,1
+33,Business Development,Accountant I,0,0,1,0
+34,Business Development,Accountant IV,0,2,1,0
+35,Business Development,Accounting Assistant I,0,0,1,0
+36,Business Development,Actuary,1,0,1,1
+37,Business Development,Administrative Assistant I,1,0,0,0
+38,Business Development,Administrative Assistant III,1,0,0,0
+39,Business Development,Administrative Officer,0,1,0,0
+40,Business Development,Analog Circuit Design manager,1,2,1,0
+41,Business Development,Analyst Programmer,0,1,0,0
+42,Business Development,Assistant Manager,0,0,0,1
+43,Business Development,Associate Professor,0,0,1,0
+44,Business Development,Automation Specialist I,0,0,0,2
+45,Business Development,Automation Specialist IV,0,1,0,0
+46,Business Development,Biostatistician II,0,0,0,1
+47,Business Development,Biostatistician III,0,0,0,2
+48,Business Development,Budget/Accounting Analyst I,1,0,0,0
+49,Business Development,Budget/Accounting Analyst III,0,1,0,0
+50,Business Development,Budget/Accounting Analyst IV,0,1,1,2
+51,Business Development,Civil Engineer,0,2,0,1
+52,Business Development,Clinical Specialist,1,1,0,2
+53,Business Development,Community Outreach Specialist,0,0,0,1
+54,Business Development,Computer Systems Analyst III,0,0,0,1
+55,Business Development,Computer Systems Analyst IV,0,1,0,0
+56,Business Development,Database Administrator II,0,1,0,0
+57,Business Development,Database Administrator III,1,0,0,1
+58,Business Development,Database Administrator IV,0,0,0,1
+59,Business Development,Dental Hygienist,0,0,3,0
+60,Business Development,Developer II,0,1,1,0
+61,Business Development,Director of Sales,0,0,1,0
+62,Business Development,Environmental Tech,0,1,0,0
+63,Business Development,Executive Secretary,0,2,1,0
+64,Business Development,Food Chemist,0,0,0,2
+65,Business Development,GIS Technical Architect,0,1,0,0
+66,Business Development,General Manager,1,1,1,0
+67,Business Development,Geological Engineer,0,0,1,1
+68,Business Development,Geologist II,0,1,1,1
+69,Business Development,Geologist IV,1,0,0,1
+70,Business Development,Graphic Designer,0,0,1,1
+71,Business Development,Health Coach IV,1,1,0,2
+72,Business Development,Human Resources Assistant III,0,1,0,0
+73,Business Development,Human Resources Assistant IV,1,0,1,1
+74,Business Development,Information Systems Manager,0,1,0,0
+75,Business Development,Internal Auditor,0,2,0,0
+76,Business Development,Junior Executive,1,0,2,2
+77,Business Development,Legal Assistant,0,0,1,1
+78,Business Development,Marketing Manager,0,1,0,0
+79,Business Development,Mechanical Systems Engineer,0,0,1,1
+80,Business Development,Media Manager III,0,0,0,1
+81,Business Development,Occupational Therapist,0,3,0,0
+82,Business Development,Office Assistant IV,0,0,1,0
+83,Business Development,Pharmacist,1,0,1,0
+84,Business Development,Product Engineer,0,0,1,1
+85,Business Development,Programmer Analyst II,0,0,1,0
+86,Business Development,Programmer I,0,0,1,0
+87,Business Development,Programmer III,1,1,1,1
+88,Business Development,Programmer IV,0,1,1,1
+89,Business Development,Quality Control Specialist,1,0,1,2
+90,Business Development,Quality Engineer,0,1,0,1
+91,Business Development,Recruiter,0,2,0,0
+92,Business Development,Recruiting Manager,0,0,1,0
+93,Business Development,Registered Nurse,1,0,0,0
+94,Business Development,Research Assistant II,0,0,0,1
+95,Business Development,Research Assistant III,0,1,0,0
+96,Business Development,Research Assistant IV,0,1,0,0
+97,Business Development,Research Nurse,0,0,0,2
+98,Business Development,Safety Technician IV,0,0,1,0
+99,Business Development,Sales Representative,0,1,0,1
+100,Business Development,Senior Cost Accountant,1,0,2,1
+101,Business Development,Senior Developer,0,0,1,0
+102,Business Development,Senior Editor,1,1,1,0
+103,Business Development,Senior Financial Analyst,0,0,0,1
+104,Business Development,Senior Quality Engineer,0,0,0,1
+105,Business Development,Senior Sales Associate,1,0,0,0
+106,Business Development,Software Test Engineer IV,2,0,2,0
+107,Business Development,Staff Accountant I,0,1,0,0
+108,Business Development,Staff Accountant III,0,1,0,0
+109,Business Development,Staff Accountant IV,0,0,0,1
+110,Business Development,Staff Scientist,1,1,0,0
+111,Business Development,Statistician II,0,1,0,0
+112,Business Development,Statistician III,0,1,1,0
+113,Business Development,Structural Analysis Engineer,0,2,2,1
+114,Business Development,Structural Engineer,0,1,0,0
+115,Business Development,Systems Administrator IV,1,1,1,1
+116,Business Development,Teacher,1,1,1,0
+117,Business Development,Technical Writer,1,1,0,0
+118,Business Development,VP Accounting,0,0,0,1
+119,Business Development,VP Marketing,0,0,1,0
+120,Business Development,VP Product Management,1,0,0,0
+121,Business Development,Web Designer I,0,2,0,1
+122,Business Development,Web Designer II,0,0,1,0
+123,Business Development,Web Designer III,0,0,1,0
+124,Business Development,Web Designer IV,0,0,1,1
+125,Business Development,Web Developer I,1,1,1,1
+126,Business Development,Web Developer II,0,0,0,1
+127,Engineering,Account Coordinator,0,1,1,0
+128,Engineering,Account Executive,0,0,0,1
+129,Engineering,Account Representative IV,0,0,0,1
+130,Engineering,Accountant I,1,0,1,0
+131,Engineering,Accounting Assistant IV,0,0,1,1
+132,Engineering,Actuary,1,0,0,1
+133,Engineering,Administrative Assistant I,0,0,0,1
+134,Engineering,Analog Circuit Design manager,0,0,0,1
+135,Engineering,Analyst Programmer,0,0,0,1
+136,Engineering,Assistant Manager,1,1,1,0
+137,Engineering,Assistant Media Planner,0,1,0,0
+138,Engineering,Assistant Professor,0,0,0,1
+139,Engineering,Associate Professor,0,1,2,0
+140,Engineering,Automation Specialist I,0,0,1,0
+141,Engineering,Biostatistician III,0,1,1,0
+142,Engineering,Budget/Accounting Analyst I,0,1,0,2
+143,Engineering,Budget/Accounting Analyst II,0,1,1,0
+144,Engineering,Budget/Accounting Analyst III,0,1,0,0
+145,Engineering,Budget/Accounting Analyst IV,0,0,0,1
+146,Engineering,Chemical Engineer,0,0,0,1
+147,Engineering,Civil Engineer,1,0,1,2
+148,Engineering,Clinical Specialist,0,1,1,2
+149,Engineering,Community Outreach Specialist,0,1,0,0
+150,Engineering,Computer Systems Analyst III,0,0,1,1
+151,Engineering,Computer Systems Analyst IV,0,1,0,0
+152,Engineering,Cost Accountant,0,0,1,0
+153,Engineering,Database Administrator I,0,0,1,0
+154,Engineering,Database Administrator II,0,0,1,1
+155,Engineering,Database Administrator III,0,0,0,1
+156,Engineering,Dental Hygienist,0,0,2,1
+157,Engineering,Engineer III,1,0,0,1
+158,Engineering,Engineer IV,0,1,1,0
+159,Engineering,Environmental Tech,0,0,1,0
+160,Engineering,Executive Secretary,1,0,0,0
+161,Engineering,Financial Analyst,0,1,1,0
+162,Engineering,Food Chemist,0,2,2,1
+163,Engineering,GIS Technical Architect,0,1,0,1
+164,Engineering,General Manager,0,0,0,2
+165,Engineering,Geological Engineer,1,1,1,0
+166,Engineering,Geologist I,0,0,1,0
+167,Engineering,Geologist II,0,3,1,0
+168,Engineering,Graphic Designer,1,0,0,0
+169,Engineering,Health Coach I,0,0,0,1
+170,Engineering,Health Coach III,0,0,0,1
+171,Engineering,Health Coach IV,0,1,0,3
+172,Engineering,Help Desk Operator,0,1,0,0
+173,Engineering,Help Desk Technician,0,0,1,0
+174,Engineering,Human Resources Assistant III,1,0,0,1
+175,Engineering,Human Resources Assistant IV,0,0,0,1
+176,Engineering,Internal Auditor,0,0,0,1
+177,Engineering,Junior Executive,0,0,1,1
+178,Engineering,Legal Assistant,0,1,0,0
+179,Engineering,Marketing Manager,0,0,1,0
+180,Engineering,Mechanical Systems Engineer,0,0,1,0
+181,Engineering,Media Manager IV,0,0,1,0
+182,Engineering,Nuclear Power Engineer,0,0,0,1
+183,Engineering,Nurse,1,1,0,0
+184,Engineering,Occupational Therapist,0,0,0,1
+185,Engineering,Office Assistant II,2,0,0,0
+186,Engineering,Payment Adjustment Coordinator,1,0,0,0
+187,Engineering,Pharmacist,0,0,0,1
+188,Engineering,Physical Therapy Assistant,1,0,0,1
+189,Engineering,Product Engineer,1,0,1,0
+190,Engineering,Professor,0,0,1,0
+191,Engineering,Programmer I,0,1,1,0
+192,Engineering,Programmer III,1,1,0,1
+193,Engineering,Programmer IV,1,1,1,2
+194,Engineering,Project Manager,0,2,1,0
+195,Engineering,Quality Control Specialist,0,0,1,1
+196,Engineering,Quality Engineer,0,1,5,0
+197,Engineering,Recruiter,0,0,3,1
+198,Engineering,Recruiting Manager,0,0,1,0
+199,Engineering,Research Assistant II,0,1,0,0
+200,Engineering,Research Nurse,0,0,1,1
+201,Engineering,Safety Technician IV,1,0,0,1
+202,Engineering,Sales Associate,0,0,1,1
+203,Engineering,Sales Representative,0,0,2,2
+204,Engineering,Senior Cost Accountant,0,1,0,1
+205,Engineering,Senior Developer,1,0,1,1
+206,Engineering,Senior Editor,0,1,0,1
+207,Engineering,Senior Quality Engineer,0,0,0,1
+208,Engineering,Social Worker,0,0,1,0
+209,Engineering,Software Engineer I,1,0,1,1
+210,Engineering,Software Engineer III,0,0,0,2
+211,Engineering,Software Test Engineer I,1,0,0,1
+212,Engineering,Software Test Engineer IV,0,1,0,1
+213,Engineering,Staff Accountant IV,2,0,1,2
+214,Engineering,Statistician II,0,1,1,1
+215,Engineering,Statistician III,1,1,0,0
+216,Engineering,Structural Analysis Engineer,0,0,1,0
+217,Engineering,Structural Engineer,0,2,0,0
+218,Engineering,Systems Administrator II,0,2,0,2
+219,Engineering,Tax Accountant,0,1,0,1
+220,Engineering,Teacher,1,0,3,1
+221,Engineering,Technical Writer,0,1,1,0
+222,Engineering,VP Accounting,1,0,0,0
+223,Engineering,VP Product Management,0,0,1,1
+224,Engineering,Web Designer I,0,1,0,5
+225,Engineering,Web Designer II,0,1,0,0
+226,Engineering,Web Designer III,0,0,0,1
+227,Engineering,Web Designer IV,0,0,1,0
+228,Engineering,Web Developer I,0,1,0,1
+229,Engineering,Web Developer II,0,1,0,0
+230,Human Resources,Account Coordinator,1,2,0,0
+231,Human Resources,Account Executive,1,0,0,1
+232,Human Resources,Account Representative IV,0,1,0,1
+233,Human Resources,Accountant I,0,0,1,1
+234,Human Resources,Accounting Assistant II,0,0,0,1
+235,Human Resources,Accounting Assistant IV,0,1,0,1
+236,Human Resources,Actuary,0,1,1,1
+237,Human Resources,Analog Circuit Design manager,0,0,0,1
+238,Human Resources,Analyst Programmer,0,1,0,1
+239,Human Resources,Assistant Manager,1,2,0,0
+240,Human Resources,Assistant Media Planner,0,0,0,2
+241,Human Resources,Assistant Professor,0,2,0,0
+242,Human Resources,Associate Professor,2,0,0,2
+243,Human Resources,Automation Specialist I,1,0,0,0
+244,Human Resources,Automation Specialist IV,1,0,0,0
+245,Human Resources,Biostatistician III,0,0,1,0
+246,Human Resources,Budget/Accounting Analyst I,1,0,0,1
+247,Human Resources,Budget/Accounting Analyst III,0,0,0,3
+248,Human Resources,Budget/Accounting Analyst IV,0,0,1,0
+249,Human Resources,Chemical Engineer,1,0,0,0
+250,Human Resources,Civil Engineer,0,1,0,0
+251,Human Resources,Clinical Specialist,0,0,0,3
+252,Human Resources,Community Outreach Specialist,1,0,0,0
+253,Human Resources,Cost Accountant,0,1,1,1
+254,Human Resources,Data Coordiator,0,0,0,1
+255,Human Resources,Database Administrator I,0,0,0,2
+256,Human Resources,Database Administrator III,0,0,1,0
+257,Human Resources,Database Administrator IV,1,0,0,0
+258,Human Resources,Design Engineer,1,0,0,0
+259,Human Resources,Developer III,0,0,0,2
+260,Human Resources,Developer IV,0,0,0,1
+261,Human Resources,Director of Sales,1,0,2,0
+262,Human Resources,Editor,0,1,1,0
+263,Human Resources,Electrical Engineer,0,1,0,0
+264,Human Resources,Engineer III,2,0,1,0
+265,Human Resources,Engineer IV,0,1,0,0
+266,Human Resources,Environmental Tech,0,1,0,0
+267,Human Resources,Executive Secretary,0,1,1,1
+268,Human Resources,Food Chemist,0,0,0,1
+269,Human Resources,GIS Technical Architect,1,0,0,0
+270,Human Resources,Geological Engineer,0,2,0,0
+271,Human Resources,Geologist II,0,1,1,1
+272,Human Resources,Geologist IV,0,0,0,1
+273,Human Resources,Graphic Designer,0,2,0,0
+274,Human Resources,Health Coach I,0,1,0,1
+275,Human Resources,Health Coach III,0,0,0,1
+276,Human Resources,Health Coach IV,0,0,2,0
+277,Human Resources,Human Resources Assistant II,0,0,0,1
+278,Human Resources,Human Resources Assistant III,0,0,1,0
+279,Human Resources,Human Resources Assistant IV,0,0,1,0
+280,Human Resources,Human Resources Manager,0,1,0,0
+281,Human Resources,Junior Executive,1,1,1,0
+282,Human Resources,Marketing Assistant,0,1,0,0
+283,Human Resources,Marketing Manager,0,2,0,0
+284,Human Resources,Media Manager III,0,1,1,1
+285,Human Resources,Nurse,0,0,1,0
+286,Human Resources,Occupational Therapist,1,0,0,1
+287,Human Resources,Office Assistant II,1,1,0,0
+288,Human Resources,Operator,0,1,0,0
+289,Human Resources,Paralegal,0,0,1,0
+290,Human Resources,Payment Adjustment Coordinator,1,0,0,1
+291,Human Resources,Pharmacist,0,1,0,1
+292,Human Resources,Physical Therapy Assistant,0,0,0,1
+293,Human Resources,Product Engineer,0,1,1,2
+294,Human Resources,Professor,0,0,1,1
+295,Human Resources,Programmer Analyst IV,1,0,0,0
+296,Human Resources,Programmer III,0,2,1,0
+297,Human Resources,Programmer IV,0,1,2,0
+298,Human Resources,Quality Control Specialist,0,2,1,0
+299,Human Resources,Quality Engineer,0,0,0,2
+300,Human Resources,Recruiter,0,0,1,1
+301,Human Resources,Recruiting Manager,1,0,1,2
+302,Human Resources,Registered Nurse,0,1,0,0
+303,Human Resources,Research Assistant I,0,0,1,0
+304,Human Resources,Research Assistant II,0,1,0,1
+305,Human Resources,Research Assistant IV,0,0,0,1
+306,Human Resources,Research Associate,0,1,1,0
+307,Human Resources,Safety Technician II,0,0,0,1
+308,Human Resources,Safety Technician III,0,1,0,0
+309,Human Resources,Sales Representative,0,0,1,0
+310,Human Resources,Senior Cost Accountant,0,0,1,3
+311,Human Resources,Senior Developer,1,0,0,0
+312,Human Resources,Senior Editor,0,0,1,2
+313,Human Resources,Senior Financial Analyst,0,0,2,0
+314,Human Resources,Senior Quality Engineer,0,0,0,1
+315,Human Resources,Social Worker,0,0,0,3
+316,Human Resources,Software Engineer I,0,1,0,2
+317,Human Resources,Software Engineer III,0,3,0,0
+318,Human Resources,Software Engineer IV,0,0,1,0
+319,Human Resources,Software Test Engineer IV,1,0,0,1
+320,Human Resources,Staff Accountant II,0,1,0,0
+321,Human Resources,Staff Accountant IV,0,1,1,0
+322,Human Resources,Staff Scientist,0,0,1,1
+323,Human Resources,Statistician II,0,1,1,0
+324,Human Resources,Structural Analysis Engineer,0,0,1,0
+325,Human Resources,Systems Administrator II,1,0,0,1
+326,Human Resources,Systems Administrator IV,0,0,1,0
+327,Human Resources,Tax Accountant,0,0,0,2
+328,Human Resources,Teacher,0,1,0,0
+329,Human Resources,Technical Writer,1,0,2,0
+330,Human Resources,VP Accounting,1,0,2,2
+331,Human Resources,VP Marketing,0,1,0,0
+332,Human Resources,VP Quality Control,0,1,0,0
+333,Human Resources,Web Designer I,0,1,0,0
+334,Human Resources,Web Designer II,0,1,1,1
+335,Human Resources,Web Developer I,1,0,0,0
+336,Human Resources,Web Developer II,1,0,2,2
+337,Legal,Account Coordinator,0,1,0,0
+338,Legal,Account Executive,0,0,0,1
+339,Legal,Account Representative IV,0,0,0,1
+340,Legal,Accountant I,0,0,1,0
+341,Legal,Accountant IV,0,0,1,0
+342,Legal,Associate Professor,0,0,1,1
+343,Legal,Biostatistician II,0,0,1,0
+344,Legal,Budget/Accounting Analyst III,0,0,1,2
+345,Legal,Chief Design Engineer,0,1,0,1
+346,Legal,Computer Systems Analyst IV,1,0,0,0
+347,Legal,Database Administrator II,0,0,1,0
+348,Legal,Database Administrator III,0,0,0,1
+349,Legal,Dental Hygienist,0,0,0,1
+350,Legal,Engineer III,0,0,0,1
+351,Legal,Engineer IV,1,0,0,0
+352,Legal,Financial Advisor,0,1,0,1
+353,Legal,Geologist I,0,0,1,0
+354,Legal,Geologist II,0,0,0,1
+355,Legal,Health Coach IV,0,0,0,1
+356,Legal,Human Resources Assistant IV,0,1,0,0
+357,Legal,Internal Auditor,0,1,0,0
+358,Legal,Marketing Manager,1,0,0,0
+359,Legal,Media Manager III,0,0,0,1
+360,Legal,Occupational Therapist,0,1,1,0
+361,Legal,Office Assistant IV,1,0,0,0
+362,Legal,Programmer Analyst II,0,1,0,0
+363,Legal,Programmer III,0,0,0,1
+364,Legal,Quality Engineer,0,0,1,0
+365,Legal,Recruiter,0,0,1,0
+366,Legal,Senior Editor,0,1,0,0
+367,Legal,Senior Financial Analyst,0,0,1,0
+368,Legal,Senior Quality Engineer,0,0,0,1
+369,Legal,Software Engineer I,0,0,0,1
+370,Legal,Software Test Engineer I,0,0,0,1
+371,Legal,Software Test Engineer IV,0,0,1,1
+372,Legal,Staff Scientist,0,0,0,1
+373,Legal,Statistician I,0,0,1,0
+374,Legal,Statistician II,1,0,1,0
+375,Legal,Structural Engineer,0,1,1,0
+376,Legal,Systems Administrator II,0,0,1,0
+377,Legal,Tax Accountant,0,0,0,1
+378,Legal,Teacher,1,0,0,1
+379,Legal,Web Developer I,0,1,2,0
+380,Legal,Web Developer III,0,0,0,1
+381,Marketing,Account Executive,1,0,0,0
+382,Marketing,Accountant I,1,0,1,0
+383,Marketing,Accountant IV,1,0,1,0
+384,Marketing,Accounting Assistant IV,0,3,0,0
+385,Marketing,Administrative Assistant I,1,0,0,0
+386,Marketing,Analyst Programmer,1,1,1,0
+387,Marketing,Assistant Manager,0,0,0,2
+388,Marketing,Assistant Professor,1,1,1,0
+389,Marketing,Associate Professor,1,0,0,0
+390,Marketing,Biostatistician II,0,1,0,2
+391,Marketing,Biostatistician III,0,0,2,1
+392,Marketing,Budget/Accounting Analyst II,1,0,0,2
+393,Marketing,Budget/Accounting Analyst IV,1,1,0,0
+394,Marketing,Chemical Engineer,0,0,0,1
+395,Marketing,Civil Engineer,0,1,1,0
+396,Marketing,Clinical Specialist,0,0,0,1
+397,Marketing,Computer Systems Analyst II,0,1,0,0
+398,Marketing,Computer Systems Analyst III,0,1,1,0
+399,Marketing,Computer Systems Analyst IV,0,1,3,0
+400,Marketing,Cost Accountant,2,0,0,1
+401,Marketing,Data Coordiator,1,1,0,0
+402,Marketing,Database Administrator III,0,0,0,1
+403,Marketing,Database Administrator IV,0,1,0,0
+404,Marketing,Dental Hygienist,0,1,0,2
+405,Marketing,Desktop Support Technician,1,0,0,0
+406,Marketing,Developer IV,0,0,0,1
+407,Marketing,Electrical Engineer,0,1,1,0
+408,Marketing,Engineer IV,1,0,0,0
+409,Marketing,Environmental Tech,0,0,0,1
+410,Marketing,Executive Secretary,1,0,0,0
+411,Marketing,Financial Analyst,0,0,1,0
+412,Marketing,Food Chemist,1,2,0,0
+413,Marketing,GIS Technical Architect,0,0,0,1
+414,Marketing,General Manager,0,0,1,0
+415,Marketing,Geologist II,0,0,0,1
+416,Marketing,Graphic Designer,1,1,0,0
+417,Marketing,Health Coach I,1,0,0,0
+418,Marketing,Health Coach III,0,1,1,0
+419,Marketing,Health Coach IV,1,1,0,1
+420,Marketing,Human Resources Assistant III,1,0,0,0
+421,Marketing,Human Resources Manager,0,1,0,0
+422,Marketing,Internal Auditor,0,0,1,0
+423,Marketing,Mechanical Systems Engineer,2,0,0,0
+424,Marketing,Media Manager IV,0,1,0,0
+425,Marketing,Nuclear Power Engineer,1,0,0,1
+426,Marketing,Nurse,0,1,0,0
+427,Marketing,Nurse Practicioner,0,0,1,0
+428,Marketing,Occupational Therapist,0,0,0,1
+429,Marketing,Office Assistant III,0,1,0,0
+430,Marketing,Pharmacist,0,0,2,0
+431,Marketing,Physical Therapy Assistant,0,0,2,0
+432,Marketing,Product Engineer,0,2,0,0
+433,Marketing,Professor,0,0,1,0
+434,Marketing,Programmer IV,0,0,1,0
+435,Marketing,Quality Control Specialist,0,0,0,1
+436,Marketing,Quality Engineer,0,0,1,0
+437,Marketing,Recruiter,0,0,1,0
+438,Marketing,Recruiting Manager,0,0,0,1
+439,Marketing,Registered Nurse,0,0,0,1
+440,Marketing,Research Assistant IV,0,1,0,0
+441,Marketing,Safety Technician I,0,1,0,0
+442,Marketing,Safety Technician II,1,0,0,1
+443,Marketing,Safety Technician IV,0,0,1,0
+444,Marketing,Sales Representative,0,2,0,1
+445,Marketing,Senior Cost Accountant,0,0,1,0
+446,Marketing,Senior Developer,0,0,0,1
+447,Marketing,Senior Editor,1,0,0,0
+448,Marketing,Senior Financial Analyst,0,1,0,0
+449,Marketing,Software Engineer IV,0,0,0,1
+450,Marketing,Software Test Engineer I,0,0,0,1
+451,Marketing,Software Test Engineer IV,0,0,1,0
+452,Marketing,Staff Accountant II,1,0,1,0
+453,Marketing,Staff Accountant III,1,0,0,0
+454,Marketing,Staff Scientist,0,1,0,0
+455,Marketing,Statistician I,0,0,0,1
+456,Marketing,Statistician II,1,3,2,0
+457,Marketing,Structural Engineer,1,0,0,0
+458,Marketing,Systems Administrator IV,0,1,0,0
+459,Marketing,Tax Accountant,0,1,0,1
+460,Marketing,Teacher,2,0,1,1
+461,Marketing,Technical Writer,1,0,0,0
+462,Marketing,VP Accounting,0,1,2,0
+463,Marketing,VP Marketing,0,0,1,0
+464,Marketing,VP Product Management,0,0,2,0
+465,Marketing,VP Quality Control,0,0,0,1
+466,Marketing,Web Designer I,0,0,1,0
+467,Marketing,Web Developer I,0,0,1,0
+468,Marketing,Web Developer III,0,0,1,0
+469,Product Management,Account Representative III,1,0,0,0
+470,Product Management,Accountant I,0,1,0,0
+471,Product Management,Accounting Assistant IV,0,0,1,0
+472,Product Management,Analyst Programmer,0,0,2,0
+473,Product Management,Assistant Manager,1,0,0,0
+474,Product Management,Automation Specialist I,1,0,0,0
+475,Product Management,Budget/Accounting Analyst IV,1,1,0,0
+476,Product Management,Cost Accountant,1,0,0,0
+477,Product Management,Database Administrator I,0,0,0,1
+478,Product Management,Electrical Engineer,0,0,0,1
+479,Product Management,Engineer IV,0,1,1,0
+480,Product Management,Geological Engineer,0,1,0,0
+481,Product Management,Graphic Designer,0,3,0,0
+482,Product Management,Help Desk Operator,1,0,0,1
+483,Product Management,Help Desk Technician,0,1,0,0
+484,Product Management,Junior Executive,0,0,0,1
+485,Product Management,Legal Assistant,0,1,0,0
+486,Product Management,Librarian,0,1,0,0
+487,Product Management,Marketing Manager,0,0,0,1
+488,Product Management,Nurse Practicioner,0,1,0,0
+489,Product Management,Office Assistant IV,0,0,1,0
+490,Product Management,Payment Adjustment Coordinator,1,1,0,0
+491,Product Management,Pharmacist,0,0,1,0
+492,Product Management,Physical Therapy Assistant,0,0,0,1
+493,Product Management,Programmer IV,0,1,0,0
+494,Product Management,Quality Control Specialist,0,0,1,0
+495,Product Management,Research Assistant II,0,2,0,0
+496,Product Management,Sales Associate,0,1,0,0
+497,Product Management,Senior Editor,1,0,0,0
+498,Product Management,Software Consultant,1,0,1,0
+499,Product Management,Software Test Engineer I,0,1,0,0
+500,Product Management,Software Test Engineer IV,0,1,0,0
+501,Product Management,Staff Accountant IV,0,1,0,0
+502,Product Management,Staff Scientist,1,0,0,0
+503,Product Management,Systems Administrator IV,0,0,0,1
+504,Product Management,Technical Writer,0,0,2,0
+505,Product Management,Web Developer I,0,0,1,1
+506,Research and Development,Account Executive,0,0,1,1
+507,Research and Development,Account Representative III,1,0,0,0
+508,Research and Development,Account Representative IV,1,0,0,0
+509,Research and Development,Accounting Assistant IV,0,0,0,1
+510,Research and Development,Actuary,1,0,0,0
+511,Research and Development,Administrative Officer,0,1,1,0
+512,Research and Development,Analog Circuit Design manager,0,0,1,0
+513,Research and Development,Assistant Professor,0,0,1,2
+514,Research and Development,Associate Professor,0,1,1,0
+515,Research and Development,Automation Specialist I,0,0,0,1
+516,Research and Development,Biostatistician II,1,0,0,0
+517,Research and Development,Biostatistician III,0,0,0,2
+518,Research and Development,Budget/Accounting Analyst III,0,1,0,1
+519,Research and Development,Budget/Accounting Analyst IV,0,1,1,0
+520,Research and Development,Chemical Engineer,0,0,2,0
+521,Research and Development,Chief Design Engineer,0,2,0,0
+522,Research and Development,Civil Engineer,1,0,0,0
+523,Research and Development,Clinical Specialist,1,1,0,1
+524,Research and Development,Compensation Analyst,0,0,1,0
+525,Research and Development,Computer Systems Analyst III,0,0,1,0
+526,Research and Development,Cost Accountant,1,0,1,0
+527,Research and Development,Data Coordiator,0,0,0,1
+528,Research and Development,Database Administrator II,0,0,1,0
+529,Research and Development,Database Administrator III,1,0,0,0
+530,Research and Development,Dental Hygienist,0,0,1,0
+531,Research and Development,Director of Sales,0,0,1,0
+532,Research and Development,Electrical Engineer,0,0,1,0
+533,Research and Development,Engineer IV,0,0,1,0
+534,Research and Development,Environmental Tech,0,0,1,0
+535,Research and Development,Executive Secretary,0,1,0,1
+536,Research and Development,Food Chemist,0,0,0,1
+537,Research and Development,General Manager,1,0,0,0
+538,Research and Development,Geologist II,1,2,0,0
+539,Research and Development,Geologist IV,0,0,1,0
+540,Research and Development,Graphic Designer,0,1,0,2
+541,Research and Development,Health Coach I,1,0,0,0
+542,Research and Development,Health Coach III,0,0,1,0
+543,Research and Development,Health Coach IV,1,0,0,3
+544,Research and Development,Information Systems Manager,0,0,1,0
+545,Research and Development,Internal Auditor,0,0,1,1
+546,Research and Development,Junior Executive,0,0,1,0
+547,Research and Development,Legal Assistant,0,0,1,0
+548,Research and Development,Librarian,0,0,1,0
+549,Research and Development,Marketing Manager,0,2,0,0
+550,Research and Development,Media Manager III,0,1,1,1
+551,Research and Development,Nuclear Power Engineer,0,0,2,0
+552,Research and Development,Operator,0,0,0,2
+553,Research and Development,Paralegal,0,2,0,0
+554,Research and Development,Payment Adjustment Coordinator,0,1,0,0
+555,Research and Development,Pharmacist,1,0,2,0
+556,Research and Development,Programmer Analyst II,0,0,0,1
+557,Research and Development,Programmer Analyst IV,0,0,1,0
+558,Research and Development,Programmer I,0,1,0,2
+559,Research and Development,Programmer III,0,0,0,1
+560,Research and Development,Programmer IV,0,0,0,1
+561,Research and Development,Project Manager,0,0,0,1
+562,Research and Development,Quality Control Specialist,0,1,1,0
+563,Research and Development,Recruiter,0,1,2,2
+564,Research and Development,Recruiting Manager,4,0,0,1
+565,Research and Development,Registered Nurse,1,0,0,1
+566,Research and Development,Research Assistant II,0,1,1,0
+567,Research and Development,Research Associate,0,2,0,0
+568,Research and Development,Sales Associate,0,0,0,1
+569,Research and Development,Sales Representative,0,1,0,1
+570,Research and Development,Senior Cost Accountant,0,0,1,0
+571,Research and Development,Senior Developer,0,1,0,0
+572,Research and Development,Senior Editor,1,0,0,1
+573,Research and Development,Senior Financial Analyst,0,0,1,1
+574,Research and Development,Senior Quality Engineer,0,0,1,0
+575,Research and Development,Social Worker,1,0,1,0
+576,Research and Development,Software Engineer I,0,1,0,0
+577,Research and Development,Software Test Engineer I,1,0,0,0
+578,Research and Development,Software Test Engineer IV,0,0,0,1
+579,Research and Development,Speech Pathologist,0,0,1,0
+580,Research and Development,Staff Accountant IV,1,0,1,1
+581,Research and Development,Staff Scientist,0,0,1,0
+582,Research and Development,Statistician I,0,0,0,2
+583,Research and Development,Statistician II,1,0,0,1
+584,Research and Development,Structural Engineer,1,1,1,0
+585,Research and Development,Systems Administrator II,0,1,0,0
+586,Research and Development,Systems Administrator IV,0,1,0,0
+587,Research and Development,Tax Accountant,0,1,1,0
+588,Research and Development,Teacher,0,1,2,1
+589,Research and Development,Technical Writer,0,0,1,1
+590,Research and Development,VP Accounting,0,0,0,1
+591,Research and Development,Web Designer I,1,0,0,0
+592,Research and Development,Web Designer II,0,0,0,1
+593,Research and Development,Web Developer III,0,1,0,1
+594,Sales,Account Executive,0,1,0,0
+595,Sales,Accounting Assistant II,0,1,0,0
+596,Sales,Accounting Assistant IV,1,0,0,0
+597,Sales,Actuary,0,1,0,0
+598,Sales,Administrative Assistant I,0,1,0,0
+599,Sales,Administrative Officer,1,0,0,0
+600,Sales,Analyst Programmer,0,1,0,0
+601,Sales,Assistant Manager,0,1,1,0
+602,Sales,Assistant Professor,0,0,2,0
+603,Sales,Associate Professor,0,2,0,0
+604,Sales,Biostatistician II,0,1,0,0
+605,Sales,Biostatistician III,0,2,0,1
+606,Sales,Budget/Accounting Analyst III,1,0,0,0
+607,Sales,Budget/Accounting Analyst IV,0,0,2,1
+608,Sales,Business Systems Development Analyst,0,0,0,1
+609,Sales,Chief Design Engineer,0,1,0,0
+610,Sales,Civil Engineer,1,0,1,0
+611,Sales,Clinical Specialist,0,1,0,0
+612,Sales,Computer Systems Analyst I,0,0,1,0
+613,Sales,Computer Systems Analyst IV,0,0,0,1
+614,Sales,Cost Accountant,1,1,1,0
+615,Sales,Database Administrator III,0,0,1,0
+616,Sales,Design Engineer,1,0,0,0
+617,Sales,Director of Sales,0,1,0,2
+618,Sales,Engineer III,1,0,0,0
+619,Sales,Engineer IV,0,1,0,0
+620,Sales,Financial Analyst,0,0,0,1
+621,Sales,Geologist II,0,2,0,2
+622,Sales,Geologist IV,0,0,1,1
+623,Sales,Graphic Designer,1,0,0,0
+624,Sales,Health Coach I,1,0,0,0
+625,Sales,Health Coach III,0,0,2,2
+626,Sales,Human Resources Manager,0,1,0,0
+627,Sales,Librarian,0,1,0,0
+628,Sales,Mechanical Systems Engineer,0,1,1,0
+629,Sales,Media Manager II,0,0,0,1
+630,Sales,Nurse,0,0,1,0
+631,Sales,Nurse Practicioner,1,0,0,0
+632,Sales,Pharmacist,0,0,0,1
+633,Sales,Programmer IV,0,1,0,2
+634,Sales,Quality Control Specialist,0,0,0,1
+635,Sales,Recruiter,0,2,0,0
+636,Sales,Recruiting Manager,0,1,2,0
+637,Sales,Research Assistant II,1,1,0,0
+638,Sales,Research Assistant IV,0,1,0,0
+639,Sales,Senior Financial Analyst,1,1,0,0
+640,Sales,Senior Quality Engineer,0,0,1,0
+641,Sales,Social Worker,0,0,0,1
+642,Sales,Software Test Engineer IV,0,1,0,0
+643,Sales,Staff Accountant I,0,1,0,0
+644,Sales,Staff Accountant III,0,1,0,0
+645,Sales,Staff Accountant IV,0,0,1,0
+646,Sales,Staff Scientist,0,0,0,1
+647,Sales,Statistician II,1,1,0,0
+648,Sales,Systems Administrator IV,1,0,1,0
+649,Sales,Teacher,0,0,1,1
+650,Sales,VP Accounting,0,0,1,3
+651,Sales,Web Designer I,1,0,0,0
+652,Sales,Web Developer III,1,0,0,1
+653,Services,Account Coordinator,0,0,0,1
+654,Services,Account Executive,0,0,2,0
+655,Services,Accountant I,0,0,0,1
+656,Services,Accountant III,0,0,1,0
+657,Services,Accounting Assistant I,0,1,0,0
+658,Services,Accounting Assistant IV,0,1,0,0
+659,Services,Administrative Assistant I,1,0,0,0
+660,Services,Analog Circuit Design manager,0,0,0,1
+661,Services,Analyst Programmer,0,1,1,1
+662,Services,Assistant Professor,0,0,0,1
+663,Services,Associate Professor,0,1,2,0
+664,Services,Biostatistician II,0,1,0,0
+665,Services,Biostatistician III,0,1,1,0
+666,Services,Biostatistician IV,0,1,1,0
+667,Services,Budget/Accounting Analyst II,0,0,1,0
+668,Services,Budget/Accounting Analyst III,0,2,0,0
+669,Services,Budget/Accounting Analyst IV,0,3,1,0
+670,Services,Chemical Engineer,0,1,0,0
+671,Services,Chief Design Engineer,0,0,0,1
+672,Services,Civil Engineer,0,0,1,1
+673,Services,Clinical Specialist,1,1,2,1
+674,Services,Community Outreach Specialist,1,1,2,0
+675,Services,Computer Systems Analyst IV,0,0,1,0
+676,Services,Cost Accountant,1,0,0,0
+677,Services,Data Coordiator,0,1,0,1
+678,Services,Database Administrator I,0,0,2,0
+679,Services,Database Administrator IV,0,1,0,0
+680,Services,Dental Hygienist,0,2,0,0
+681,Services,Design Engineer,0,0,1,0
+682,Services,Developer I,0,1,2,0
+683,Services,Developer II,0,1,0,0
+684,Services,Developer III,0,0,1,0
+685,Services,Director of Sales,0,0,0,1
+686,Services,Engineer I,0,1,0,0
+687,Services,Engineer III,0,0,3,0
+688,Services,Engineer IV,0,1,0,0
+689,Services,Environmental Tech,0,1,0,0
+690,Services,Executive Secretary,0,0,1,1
+691,Services,Food Chemist,1,1,0,2
+692,Services,GIS Technical Architect,1,1,0,0
+693,Services,General Manager,0,1,0,0
+694,Services,Geological Engineer,0,0,0,1
+695,Services,Geologist I,0,0,1,1
+696,Services,Geologist II,1,1,0,0
+697,Services,Geologist IV,0,0,0,3
+698,Services,Graphic Designer,0,1,0,0
+699,Services,Health Coach III,0,0,0,1
+700,Services,Health Coach IV,0,0,1,0
+701,Services,Human Resources Assistant II,0,1,1,0
+702,Services,Human Resources Assistant IV,1,0,0,1
+703,Services,Human Resources Manager,0,1,0,1
+704,Services,Information Systems Manager,0,0,1,0
+705,Services,Internal Auditor,0,3,0,0
+706,Services,Junior Executive,0,1,1,0
+707,Services,Legal Assistant,1,0,0,0
+708,Services,Librarian,0,1,0,1
+709,Services,Media Manager III,0,0,0,2
+710,Services,Media Manager IV,0,0,1,0
+711,Services,Nuclear Power Engineer,1,0,0,0
+712,Services,Nurse Practicioner,0,1,0,0
+713,Services,Occupational Therapist,0,1,1,0
+714,Services,Operator,0,0,1,0
+715,Services,Payment Adjustment Coordinator,0,0,0,1
+716,Services,Pharmacist,0,0,0,1
+717,Services,Physical Therapy Assistant,0,1,1,0
+718,Services,Professor,0,0,0,2
+719,Services,Programmer I,1,0,2,0
+720,Services,Programmer III,0,0,2,0
+721,Services,Programmer IV,2,3,0,3
+722,Services,Project Manager,1,0,0,0
+723,Services,Quality Control Specialist,0,0,2,1
+724,Services,Quality Engineer,0,1,1,1
+725,Services,Recruiter,0,0,1,1
+726,Services,Recruiting Manager,0,1,1,0
+727,Services,Registered Nurse,0,1,0,0
+728,Services,Research Assistant II,0,1,0,2
+729,Services,Research Assistant III,0,0,1,0
+730,Services,Research Assistant IV,0,2,1,1
+731,Services,Safety Technician IV,0,0,0,1
+732,Services,Sales Representative,0,1,0,1
+733,Services,Senior Cost Accountant,1,2,0,0
+734,Services,Senior Developer,0,0,0,1
+735,Services,Senior Editor,0,1,0,0
+736,Services,Senior Financial Analyst,1,1,0,0
+737,Services,Software Engineer I,0,3,0,3
+738,Services,Software Engineer III,1,0,0,0
+739,Services,Software Test Engineer III,0,0,0,1
+740,Services,Software Test Engineer IV,1,1,1,1
+741,Services,Staff Accountant III,0,0,1,0
+742,Services,Staff Accountant IV,1,0,0,0
+743,Services,Staff Scientist,0,1,0,0
+744,Services,Statistician I,1,0,0,0
+745,Services,Statistician II,1,0,0,1
+746,Services,Statistician III,0,0,1,0
+747,Services,Structural Analysis Engineer,0,1,1,1
+748,Services,Systems Administrator IV,1,0,1,0
+749,Services,Teacher,3,2,0,1
+750,Services,VP Accounting,0,2,0,0
+751,Services,VP Product Management,0,0,2,1
+752,Services,VP Quality Control,0,0,1,0
+753,Services,Web Designer I,1,0,1,0
+754,Services,Web Designer II,0,1,1,0
+755,Services,Web Designer III,1,0,0,0
+756,Services,Web Developer I,1,1,1,0
+757,Services,Web Developer II,0,1,0,0
+758,Support,Account Coordinator,0,0,0,1
+759,Support,Account Executive,0,1,2,2
+760,Support,Account Representative III,0,0,0,2
+761,Support,Account Representative IV,0,1,0,1
+762,Support,Accountant IV,0,2,0,0
+763,Support,Accounting Assistant I,1,0,1,0
+764,Support,Accounting Assistant II,1,1,0,0
+765,Support,Accounting Assistant III,0,0,1,0
+766,Support,Accounting Assistant IV,0,2,1,0
+767,Support,Actuary,0,0,0,2
+768,Support,Administrative Assistant III,0,1,0,0
+769,Support,Analog Circuit Design manager,1,0,0,0
+770,Support,Analyst Programmer,0,0,1,1
+771,Support,Assistant Manager,2,0,1,0
+772,Support,Assistant Media Planner,0,0,0,2
+773,Support,Assistant Professor,0,2,0,0
+774,Support,Associate Professor,0,2,3,0
+775,Support,Automation Specialist I,1,0,2,0
+776,Support,Automation Specialist IV,0,0,0,1
+777,Support,Biostatistician II,0,0,1,0
+778,Support,Biostatistician III,0,0,0,3
+779,Support,Budget/Accounting Analyst I,1,0,0,0
+780,Support,Budget/Accounting Analyst IV,1,0,0,0
+781,Support,Chemical Engineer,1,0,0,0
+782,Support,Chief Design Engineer,1,3,0,1
+783,Support,Civil Engineer,0,2,1,0
+784,Support,Clinical Specialist,1,1,2,2
+785,Support,Computer Systems Analyst IV,0,1,0,0
+786,Support,Cost Accountant,1,2,0,1
+787,Support,Data Coordiator,0,0,1,0
+788,Support,Database Administrator I,0,0,0,1
+789,Support,Database Administrator II,1,0,0,0
+790,Support,Database Administrator III,0,1,1,0
+791,Support,Dental Hygienist,0,0,1,0
+792,Support,Developer II,0,0,0,1
+793,Support,Director of Sales,1,0,0,2
+794,Support,Editor,0,0,1,1
+795,Support,Electrical Engineer,0,0,0,1
+796,Support,Engineer III,0,0,1,2
+797,Support,Engineer IV,0,1,1,0
+798,Support,Environmental Tech,1,0,0,0
+799,Support,Executive Secretary,1,0,0,0
+800,Support,Food Chemist,1,0,0,0
+801,Support,GIS Technical Architect,0,1,0,0
+802,Support,General Manager,0,2,0,0
+803,Support,Geological Engineer,0,0,1,0
+804,Support,Geologist II,0,0,0,2
+805,Support,Geologist IV,1,0,0,1
+806,Support,Graphic Designer,0,0,1,0
+807,Support,Health Coach III,1,1,0,1
+808,Support,Health Coach IV,0,0,1,1
+809,Support,Human Resources Assistant II,0,0,1,0
+810,Support,Human Resources Assistant III,0,1,0,0
+811,Support,Human Resources Assistant IV,0,1,0,0
+812,Support,Junior Executive,1,0,0,1
+813,Support,Marketing Manager,0,1,0,0
+814,Support,Media Manager IV,0,0,1,0
+815,Support,Nurse,1,0,0,0
+816,Support,Nurse Practicioner,0,1,0,0
+817,Support,Occupational Therapist,0,0,1,0
+818,Support,Paralegal,0,1,0,0
+819,Support,Pharmacist,0,1,0,1
+820,Support,Product Engineer,0,0,0,1
+821,Support,Professor,0,0,2,0
+822,Support,Programmer Analyst II,1,0,1,0
+823,Support,Programmer III,1,1,0,1
+824,Support,Programmer IV,0,0,4,2
+825,Support,Project Manager,0,0,1,0
+826,Support,Quality Engineer,1,0,0,0
+827,Support,Recruiter,2,3,2,1
+828,Support,Recruiting Manager,0,0,1,1
+829,Support,Registered Nurse,0,0,1,2
+830,Support,Research Assistant III,0,0,1,0
+831,Support,Research Assistant IV,0,0,0,2
+832,Support,Sales Representative,0,1,1,0
+833,Support,Senior Cost Accountant,0,0,1,0
+834,Support,Senior Developer,0,0,1,1
+835,Support,Senior Editor,0,0,0,3
+836,Support,Senior Financial Analyst,1,2,1,1
+837,Support,Social Worker,0,0,1,0
+838,Support,Software Engineer III,0,0,0,2
+839,Support,Software Test Engineer I,0,0,1,0
+840,Support,Software Test Engineer IV,0,2,1,1
+841,Support,Speech Pathologist,0,1,0,0
+842,Support,Staff Accountant III,1,0,1,0
+843,Support,Staff Accountant IV,0,0,0,1
+844,Support,Staff Scientist,0,0,1,1
+845,Support,Statistician I,0,2,0,0
+846,Support,Statistician II,0,1,0,0
+847,Support,Statistician III,0,1,0,0
+848,Support,Structural Analysis Engineer,0,1,0,0
+849,Support,Structural Engineer,0,1,0,0
+850,Support,Systems Administrator II,0,0,1,1
+851,Support,Systems Administrator IV,2,4,0,2
+852,Support,Teacher,0,1,1,0
+853,Support,Technical Writer,0,1,1,0
+854,Support,VP Accounting,0,2,0,0
+855,Support,VP Marketing,0,0,0,1
+856,Support,VP Product Management,0,0,1,0
+857,Support,VP Quality Control,0,0,0,1
+858,Support,Web Designer I,1,4,0,1
+859,Support,Web Designer II,0,2,1,0
+860,Support,Web Designer IV,1,0,1,1
+861,Support,Web Developer I,0,0,2,0
+862,Support,Web Developer II,0,0,0,1
+863,Support,Web Developer III,0,1,0,0
+864,Training,Account Coordinator,0,1,0,0
+865,Training,Account Representative IV,1,0,0,0
+866,Training,Accountant II,0,0,0,1
+867,Training,Accountant IV,0,1,0,1
+868,Training,Accounting Assistant I,0,0,0,1
+869,Training,Accounting Assistant IV,0,0,0,1
+870,Training,Actuary,0,0,1,0
+871,Training,Analog Circuit Design manager,0,1,0,0
+872,Training,Analyst Programmer,0,0,2,0
+873,Training,Budget/Accounting Analyst III,0,0,1,1
+874,Training,Budget/Accounting Analyst IV,0,0,1,1
+875,Training,Clinical Specialist,0,0,0,1
+876,Training,Community Outreach Specialist,1,1,0,2
+877,Training,Computer Systems Analyst III,0,0,1,0
+878,Training,Data Coordiator,0,1,0,0
+879,Training,Database Administrator II,1,1,0,0
+880,Training,Database Administrator III,0,0,0,2
+881,Training,Dental Hygienist,1,0,0,1
+882,Training,Design Engineer,0,1,0,0
+883,Training,Editor,0,1,1,0
+884,Training,Engineer III,0,0,0,1
+885,Training,Financial Analyst,0,0,0,1
+886,Training,Food Chemist,1,1,2,1
+887,Training,Geological Engineer,0,0,0,1
+888,Training,Geologist II,0,1,1,1
+889,Training,Geologist IV,0,1,0,0
+890,Training,Graphic Designer,0,1,1,1
+891,Training,Health Coach III,0,0,1,0
+892,Training,Health Coach IV,0,1,0,0
+893,Training,Human Resources Assistant II,0,1,0,0
+894,Training,Human Resources Assistant IV,0,0,0,1
+895,Training,Information Systems Manager,0,0,2,0
+896,Training,Internal Auditor,0,1,1,0
+897,Training,Librarian,0,0,0,1
+898,Training,Mechanical Systems Engineer,1,0,0,0
+899,Training,Media Manager III,0,0,0,2
+900,Training,Nuclear Power Engineer,0,0,1,0
+901,Training,Office Assistant II,0,0,1,0
+902,Training,Operator,0,0,1,0
+903,Training,Paralegal,0,0,0,1
+904,Training,Pharmacist,0,2,1,0
+905,Training,Programmer I,0,0,1,0
+906,Training,Programmer IV,0,1,1,1
+907,Training,Quality Control Specialist,0,0,1,0
+908,Training,Quality Engineer,2,0,1,0
+909,Training,Recruiter,0,0,0,2
+910,Training,Registered Nurse,1,0,0,0
+911,Training,Research Assistant IV,1,0,0,2
+912,Training,Research Associate,0,0,1,0
+913,Training,Sales Representative,0,1,1,2
+914,Training,Senior Editor,0,1,0,2
+915,Training,Senior Financial Analyst,0,0,0,1
+916,Training,Software Engineer I,0,0,0,1
+917,Training,Software Engineer III,0,0,1,0
+918,Training,Software Test Engineer IV,1,0,0,0
+919,Training,Staff Accountant III,0,0,0,1
+920,Training,Staff Accountant IV,0,0,1,2
+921,Training,Staff Scientist,0,1,2,0
+922,Training,Statistician II,1,0,0,0
+923,Training,Statistician III,0,1,0,0
+924,Training,Structural Analysis Engineer,1,0,0,0
+925,Training,Structural Engineer,0,1,0,0
+926,Training,Systems Administrator II,0,1,0,0
+927,Training,Systems Administrator IV,1,0,1,0
+928,Training,Teacher,0,2,0,0
+929,Training,Technical Writer,0,0,1,0
+930,Training,VP Product Management,1,0,0,0
+931,Training,VP Quality Control,0,1,0,0
+932,Training,Web Developer III,0,1,0,0
