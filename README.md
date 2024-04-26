@@ -31,10 +31,5 @@ by the number of employees hired (descending).
 ![image](https://github.com/yadelisgv/SQL-en-Python-Project/assets/40398052/8c05f613-2412-4049-8f42-f8c3ed3eb18d)
 
 
-Para resolver este problema, necesitamos realizar varias operaciones SQL. Primero, necesitamos calcular la media de empleados contratados en 2021 para todos los departamentos. Luego, utilizar esa media para filtrar los departamentos que contrataron más empleados que la media. Finalmente, contaremos el número de empleados contratados por cada departamento seleccionado y los ordenaremos en orden descendente por el número de empleados contratados. De manera resumida, estos son los pasos a seguir:
-
-1-CALCULAR LA MEDIA DE EMPLEADOS CONTRATADOS EN 2021
-2-Obtener los departamentos que contrataron más empleados que la media calculada en el Paso1
-3-Contar el número de empleados contratados por cada departamento que contrató por encima de la media y mostrar como resultado el id, el departamento y la cantidad de empleados contratados
-4-Exportar el resultado a fichero Requerimiento2.csv
+Para resolver este problema, necesitamos realizar varias operaciones SQL. Primero, necesitamos: calcular la media de empleados contratados en 2021 para todos los departamentos. Luego, utilizar esa media para filtrar los departamentos que contrataron más empleados que la media. Finalmente, contaremos el número de empleados contratados por cada departamento seleccionado y los ordenaremos en orden descendente por el número de empleados contratados. 
 
