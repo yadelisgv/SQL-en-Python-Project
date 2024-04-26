@@ -13,6 +13,15 @@ jobs structure
 Se pide explorar los datos introducidos contenidos en las tres tablas. Se piden algunas métricas específicas que se necesitan. 
 Se debe crear un punto final para cada requisito.
 
+Para resolver los dos Requirements haremos uso de las librerías>
+
+Pandas: es una biblioteca de Python que proporciona estructuras de datos y herramientas de análisis de datos de alto rendimiento y fácil de usar. Está construida sobre la biblioteca NumPy y proporciona estructuras de datos como DataFrame y Series, que son eficientes para trabajar con datos tabulares y de series temporales.
+Uso común: Manipulación, limpieza y análisis de datos tabulares, incluyendo carga de datos desde archivos CSV, Excel, bases de datos y otros formatos, filtrado, agrupación, agregación, visualización y más.
+
+SQLAlchemy:
+Descripción: SQLAlchemy es una biblioteca de Python que proporciona una forma flexible y de alto rendimiento para trabajar con bases de datos relacionales. Permite interactuar con bases de datos utilizando un ORM (Object-Relational Mapping), que mapea objetos de Python a tablas de base de datos y viceversa. También proporciona una API de bajo nivel para ejecutar consultas SQL directamente.
+Uso común: Interacción avanzada con bases de datos relacionales, incluyendo el mapeo de objetos a tablas de bases de datos, ejecución de consultas SQL, transacciones, creación y administración de esquemas de bases de datos, y más.
+
 Requirements1
 Number of employees hired for each job and department in 2021 divided by quarter. The
 table must be ordered alphabetically by department and job.
