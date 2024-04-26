@@ -1,13 +1,13 @@
 # SQL-en-Python-Project
 Para el siguiente ejercicio contamos con tres tablas (departments, jobs, hired_employees) con la siguiente estructura:
 
-hired_employees structure
+
 ![image](https://github.com/yadelisgv/SQL-en-Python-Project/assets/40398052/3e3098f9-67a2-465c-8324-b6058f31301d)
 
-departments structure
+
 ![image](https://github.com/yadelisgv/SQL-en-Python-Project/assets/40398052/b3d4a6d5-6969-4645-baa8-e15fe1340aa4)
 
-jobs structure
+
 ![image](https://github.com/yadelisgv/SQL-en-Python-Project/assets/40398052/25dd3636-44e6-4d9a-9928-91f6102b287f)
 
 Se pide explorar los datos introducidos contenidos en las tres tablas. Se piden algunas métricas específicas que se necesitan. 
